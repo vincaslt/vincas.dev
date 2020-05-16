@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'icomoon';
+  src: url('./fonts/icomoon.eot?hps3a9');
+  src: url('./fonts/icomoon.eot?hps3a9#iefix') format('embedded-opentype'),
+    url('./fonts/icomoon.ttf?hps3a9') format('truetype'),
+    url('./fonts/icomoon.woff?hps3a9') format('woff'),
+    url('./fonts/icomoon.svg?hps3a9#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^='icon-'],
+[class*=' icon-'] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-mail:before {
+  content: '\ea83';
+}
+.icon-twitter:before {
+  content: '\ea96';
+}
+.icon-github:before {
+  content: '\eab0';
+}
+.icon-linkedin:before {
+  content: '\eac9';
+}
+.icon-stackoverflow:before {
+  content: '\ead0';
+}
