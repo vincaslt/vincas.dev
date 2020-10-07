@@ -1,0 +1,120 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Profile page of Vincas Stonys, front-end software engineer at ProtonMail - summary, resume and portfolio.">
+    <title>
+      Vincas Stonys' Software Engineer Profile | vincas.dev
+    </title>
+    <link rel="shortcut icon" type="image/png" href="be9e9f139e377da78b75676e4e17da96">
+    <link rel="stylesheet" href="3e380bf5001c41b25dd32bb3f1e9fc74">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="900f7135564d7ebfa1050bba66b525ce"></script>
+    <script data-parcel-key="79f65ff0617c00017202bb00138ca62f">
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+      gtag('config', 'UA-33499956-2');
+    </script>
+  </head>
+
+  <body class="bg-black text-primary font-mono">
+    <div class="container mx-auto p-8">
+      <h1 class="text-2xl font-semibold mb-4">
+        Vincas Stonys
+      </h1>
+
+      <p class="mb-2">
+        Hi! I'm a software engineer from Vilnius, Lithuania. I finished my BE in
+        Software Engineering in Vilnius University in 2018. My professional
+        experience spans over 4+ years in projects varying from internal tools
+        to complex large-scale applications used by millions.
+      </p>
+
+      <p class="mb-4">
+        In my free time I practice the piano or do
+        <a rel="noopener noreferrer" target="_blank" href="3a3ae37ca485e9f8a9ec2ef7eb6f6e58" class="border-b border-primary border-dashed hover:border-solid focus:border-solid">
+          freestyle slalom skating</a>. I follow
+        <a rel="noopener noreferrer" target="_blank" href="54d86848c2c33f653b4d09108918626d" class="border-b border-primary border-dashed hover:border-solid focus:border-solid">
+          figure skating</a>
+        scene, play video games and watch TV series. I also code as a hobby! If
+        you'd like to work on something with me -
+        <a href="7991eaa1d8a1b6ef43d7a96d5270e2c0" class="border-b border-primary border-dashed hover:border-solid focus:border-solid">
+          send me an email</a>.
+      </p>
+
+      <p class="mb-8">
+        <a rel="noopener noreferrer" target="_blank" href="c5f801ca59f1b38e11b6d8ce1dd78663" class="py-1 px-2 border border-primary border-dashed hover:border-solid focus:border-solid">
+          View full resume
+        </a>
+      </p>
+
+      <h2 class="text-xl font-semibold mb-4">My Projects</h2>
+
+      <div class="max-w-xl flex items-center mb-8 sm:mb-4 flex-col sm:flex-row">
+        <img src="ee4eece8cb8550356acca93d376b39e4" alt="highlight matching tag" class="w-24 h-24 mb-4 sm:mb-0 sm:mr-4">
+        <div class="text-center sm:text-left">
+          <a rel="noopener noreferrer" target="_blank" href="9615449b2b2c389f2d674a140eb3b9bb" class="text-lg font-semibold border-b border-primary border-dashed hover:border-solid focus:border-solid">Highlight Matching Tag</a>
+          <p class="mt-2">
+            VSCode extension used by over 400,000 people. It finds matching
+            markup tags in any code.<br>
+            <a rel="noopener noreferrer" target="_blank" href="ea1cf8d976316207c99faf0faaa6d3e0" class="border-b border-primary border-dashed hover:border-solid focus:border-solid">See on GitHub</a>
+          </p>
+        </div>
+      </div>
+
+      <div class="max-w-xl flex items-center mb-8 sm:mb-4 flex-col sm:flex-row">
+        <img src="1a0f8453f4fa1d0983509150bcc39eba" alt="planning poker" class="w-24 h-24 mb-4 sm:mb-0 sm:mr-4">
+        <div class="text-center sm:text-left">
+          <a rel="noopener noreferrer" target="_blank" href="c27e7be280b0d195e052dcfdcc907bba" class="text-lg font-semibold border-b border-primary border-dashed hover:border-solid focus:border-solid">Planning Poker</a>
+          <p class="mt-2">
+            Real-time virtual collaborative environment for estimating tasks
+            using planning poker method.<br>
+            <a rel="noopener noreferrer" target="_blank" href="6e21d8e72974c0e1aa9dc5813387c43b" class="border-b border-primary border-dashed hover:border-solid focus:border-solid">See on GitHub</a>
+          </p>
+        </div>
+      </div>
+
+      <div class="mt-4">
+        I also do some open-source work in other projects:
+
+        <ul class="mt-2">
+          <li>
+            <a rel="noopener noreferrer" target="_blank" href="aea87cd45ff62865cc4b771de4722a28" class="border-b border-primary border-dashed hover:border-solid focus:border-solid">i18next-parser</a>
+            - <i>maintainer</i>, helping with implementing features and solving
+            issues.
+          </li>
+        </ul>
+      </div>
+
+      <div class="mt-8 flex border-t border-primary pt-4 justify-between">
+        <div class="flex text-4xl justify-center sm:justify-start flex-grow">
+          <a rel="noopener noreferrer" target="_blank" title="Email me!" href="abfb4e72f912d700b07b422498dd56e7" class="mr-4">
+            <span class="icon-mail"></span>
+          </a>
+
+          <a rel="noopener noreferrer" target="_blank" title="LinkedIn" href="3c5518d95bf6035be3c52b21c55432fb" class="mr-4">
+            <span class="icon-linkedin"></span>
+          </a>
+
+          <a rel="noopener noreferrer" target="_blank" title="Github" href="9890f73b4504001d6f8429e80e2253b1" class="mr-4">
+            <span class="icon-github"></span>
+          </a>
+
+          <a rel="noopener noreferrer" target="_blank" title="Twitter" href="d3c277d29b1d29b8c501cb2952e97915" class="mr-4">
+            <span class="icon-twitter"></span>
+          </a>
+
+          <a rel="noopener noreferrer" target="_blank" title="Stack Overflow" href="3dc27dae26c17eb7fe200a747ec288b3" class="mr-4">
+            <span class="icon-stackoverflow"></span>
+          </a>
+        </div>
+        <div class="hidden sm:flex">
+          Vincas Stonys, 2020
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
